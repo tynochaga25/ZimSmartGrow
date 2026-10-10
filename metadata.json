@@ -1,0 +1,6 @@
+{
+  "name": "ZimSmart Grow",
+  "description": "AI-powered farming intelligence for smallholder farmers in Zimbabwe, delivering planting guidance, crop disease diagnosis, and market access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
