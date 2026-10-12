@@ -189,7 +189,7 @@ export const TheAskSection: React.FC<TheAskSectionProps> = ({ initialInterest = 
                   <div>
                     <span className="text-xs text-neutral-500 block">Phone / WhatsApp</span>
                     <span className="font-semibold text-neutral-900">
-                      +263 77 000 0000 / Direct Inquiries
+                      +263780660853 / Direct Inquiries
                     </span>
                   </div>
                 </div>
@@ -199,7 +199,7 @@ export const TheAskSection: React.FC<TheAskSectionProps> = ({ initialInterest = 
                   <div>
                     <span className="text-xs text-neutral-500 block">Headquarters</span>
                     <span className="font-semibold text-neutral-900">
-                      Harare & Goromonzi Agronomy Hub, Zimbabwe
+                      Harare, Zimbabwe
                     </span>
                   </div>
                 </div>

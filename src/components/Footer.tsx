@@ -97,11 +97,11 @@ export const Footer: React.FC = () => {
               </div>
               <div className="flex items-center gap-2.5">
                 <Phone className="w-4 h-4 text-emerald-400 shrink-0" />
-                <span>+263 77 000 0000 (Harare, Zimbabwe)</span>
+                <span>+2637806600853</span>
               </div>
               <div className="flex items-center gap-2.5">
                 <MapPin className="w-4 h-4 text-emerald-400 shrink-0" />
-                <span>Harare & Goromonzi Agronomy Hub, Zimbabwe</span>
+                <span>Harare, Zimbabwe</span>
               </div>
             </div>
 
