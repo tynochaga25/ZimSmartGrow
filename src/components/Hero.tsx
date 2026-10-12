@@ -28,7 +28,6 @@ export const Hero: React.FC<HeroProps> = ({ onJoinMission, onExploreDemo }) => {
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-emerald-950/80 border border-emerald-600/40 text-emerald-300 text-xs font-semibold mb-6 backdrop-blur-xs">
             <span className="w-2 h-2 rounded-full bg-emerald-400"></span>
             <span>AgriTech & Climate Adaptation · Zimbabwe & SADC</span>
-            <span className="text-neutral-500"></span>
           </div>
 
           {/* Headline - strictly contained and balanced */}
