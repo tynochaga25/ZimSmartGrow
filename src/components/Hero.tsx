@@ -29,7 +29,6 @@ export const Hero: React.FC<HeroProps> = ({ onJoinMission, onExploreDemo }) => {
             <span className="w-2 h-2 rounded-full bg-emerald-400"></span>
             <span>AgriTech & Climate Adaptation · Zimbabwe & SADC</span>
             <span className="text-neutral-500">|</span>
-            <span className="text-amber-300 font-medium">MassChallenge Ready</span>
           </div>
 
           {/* Headline - strictly contained and balanced */}
